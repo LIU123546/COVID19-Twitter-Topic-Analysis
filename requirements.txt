@@ -1,0 +1,9 @@
+tqdm
+plotly
+gensim
+pandas
+numpy
+nltk
+allennlp
+spacy
+textblob
