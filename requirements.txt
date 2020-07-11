@@ -5,5 +5,7 @@ pandas
 numpy
 nltk
 allennlp
-spacy
 textblob
+twarc
+emoji
+tensorboard
