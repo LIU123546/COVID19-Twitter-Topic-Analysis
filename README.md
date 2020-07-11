@@ -51,13 +51,14 @@ python train_lda.py --dataset_dir data/COVID-19-Tweets-geo --dump_dir dump/sampl
 
 ## Analysis
 
-[Data Analysis Notebook](./inspect_data.ipynb)
+<!-- [Data Analysis Notebook](./inspect_data.ipynb) -->
+[Data Analysis Notebook](https://nbviewer.jupyter.org/gist/Shuailong/892b380278e4c66077ab1b0320bf4eb0)
 
-[Cohrence Analysis Notebook](./analyze_coherence.ipynb)
-<!-- [Cohrence Analysis Notebook](https://nbviewer.jupyter.org/gist/Shuailong/414943ef4dbbe049b035d85a10e3b602) -->
+<!-- [Cohrence Analysis Notebook](./analyze_coherence.ipynb) -->
+[Cohrence Analysis Notebook](https://nbviewer.jupyter.org/gist/Shuailong/414943ef4dbbe049b035d85a10e3b602)
 
-[Predictions Analysis Notebook](./analyze_prediction.ipynb)
-<!-- [Predictions Analysis Notebook](https://nbviewer.jupyter.org/gist/Shuailong/41bd8fae0a80758ef7cd814df91d7cd4) -->
+<!-- [Predictions Analysis Notebook](./analyze_prediction.ipynb) -->
+[Predictions Analysis Notebook](https://nbviewer.jupyter.org/gist/Shuailong/41bd8fae0a80758ef7cd814df91d7cd4)
 
-[PyLDAvis Notebook](./pyldavis.ipynb)
-<!-- [PyLDAvis Notebook](https://nbviewer.jupyter.org/gist/Shuailong/32942e5703817d4cc130f74afbd0be33) -->
+<!-- [PyLDAvis Notebook](./pyldavis.ipynb) -->
+[PyLDAvis Notebook](https://nbviewer.jupyter.org/gist/Shuailong/32942e5703817d4cc130f74afbd0be33)
